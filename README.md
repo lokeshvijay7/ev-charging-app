@@ -6,21 +6,26 @@ A full-stack web application for managing electric vehicle charging stations wit
 
 - **Frontend**: https://ev-charging-app-frontend.onrender.com/
 - **Backend API**: https://ev-charging-app-punn.onrender.com/
-- **API Documentation**: [Your Swagger/Postman Collection URL]
 
 ## 📸 Screenshots
 
+### Home screen
+![Dashboard](screenshot/home.png)
+
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Charging Station List
-![Charging Stations](screenshots/charging-stations.png)
+![Charging Stations](screenshot/stationlist.png)
 
 ### Map View
-![Map View](screenshots/map-view.png)
+![Map View](screenshot/stationmap.png)
 
 ### Login Screen
-![Login](screenshots/login.png)
+![Login](screenshot/signup.png)
+
+### Add new station
+![Login](screenshot/addstation.png)
 
 ## 🛠️ Technology Stack
 
@@ -154,9 +159,8 @@ Content-Type: application/json
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+**Lokesh K V**
+- GitHub: https://github.com/lokeshvijay7
+- Email: loki7cr@gmail.com
 
 ⭐ Don't forget to star this repository if you found it helpful!

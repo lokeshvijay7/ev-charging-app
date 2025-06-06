@@ -2,7 +2,7 @@ import { createStore } from "vuex"
 import axios from "axios"
 
 // Set base URL for API requests
-axios.defaults.baseURL = process.env.VUE_APP_API_URL || "http://localhost:5000/api"
+axios.defaults.baseURL = process.env.VUE_APP_API_URL || "https://ev-charging-app-punn.onrender.com/api"
 
 // Add token to requests if available
 axios.interceptors.request.use((config) => {

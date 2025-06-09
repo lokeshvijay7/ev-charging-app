@@ -76,7 +76,6 @@ A full-stack web application for managing electric vehicle charging stations wit
 - Power output specifications (kW)
 - Connector type information
 - Status tracking (Active/Inactive)
-- Real-time availability updates
 
 ## 🚀 Getting Started
 
